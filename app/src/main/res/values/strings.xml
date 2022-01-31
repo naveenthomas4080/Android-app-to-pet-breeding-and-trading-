@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">pets</string>
+    <string name="login">LogIn</string>
+    <string name="settings">SETTINGS</string>
+    <string name="hospital">HOSPITAL</string>
+    <string name="add_notification">ADD NOTIFICATION</string>
+    <string name="find_partner">FIND PARTNER</string>
+    <string name="buying">BUYING</string>
+    <string name="selling">SELLING</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="name">NAME</string>
+    <string name="create_account">Create Account</string>
+    <string name="mobile">MOBILE</string>
+    <string name="email">EMAIL</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="next">NEXT</string>
+    <string name="bread">BREAD</string>
+    <string name="pet_details">Pet Details</string>
+</resources>
